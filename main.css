@@ -81,3 +81,7 @@ section h2,
 section h2 {
     font-size: 32px;
 }
+
+#sports {
+    background-color: rgba(0, 255, 0, 0,2);
+}
