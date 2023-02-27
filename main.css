@@ -85,10 +85,18 @@ section h2 {
 }
 
 #sports {
-    background-color: rgba(0, 255, 0, 0,2);
+    background-color: greenyellow;
 }
 
 #sports .articles article a {
     background-color: rgba(0, 255, 0, 0,8);
     color: black;
+}
+
+#economy {
+    background-color: darkkhaki;
+}
+
+#economy .articles article a {
+    background-color: coral;
 }
