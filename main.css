@@ -63,6 +63,8 @@ section h2,
     padding: 8px;
     display: inline-block;
     text-decoration: none;
+    font-weight: bold;
+    margin-top: 8px;
 }
 
 .articles article a:hover {
