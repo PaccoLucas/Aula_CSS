@@ -13,3 +13,7 @@ h1 {
 .creation-date {
     color: #ccc;
 }
+
+* {
+    color: red;
+}
