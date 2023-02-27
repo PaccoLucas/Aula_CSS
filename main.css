@@ -15,6 +15,7 @@ header li {
 
 .articles {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .articles article img{
