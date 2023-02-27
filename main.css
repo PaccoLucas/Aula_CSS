@@ -49,3 +49,10 @@ section h2,
     margin-top: 8px;
     margin-bottom: 8px;
 }
+
+.articles article a {
+    background-color: blue;
+    color: #fff;
+    padding: 8px;
+    display: inline-block;
+}
